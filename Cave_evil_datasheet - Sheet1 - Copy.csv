@@ -1,0 +1,70 @@
+GUID,Name,Metal,Gore,Shadowflame,st,sp,dd,bt,at,wp,type,size,movement,mining,hands,carry,mage
+4dfc1d,Spiny Bug,1,2,0,3,5,2,3,8,6,creature,small,3,0,0,0,0
+600b2d,Chain of Restriction,1,1,2,0,0,0,0,0,0,item,item,0,0,0,0,0
+4cd530,Chaotic Collapse,2,0,2,0,0,0,0,0,0,spell,spell,0,0,0,0,0
+2bff84,Insectoid,1,1,0,3,7,3,2,4,4,creature,small,3,1,1,0,0
+4597c1,Chaotic Collapse,2,0,2,0,0,0,0,0,0,spell,spell,0,0,0,0,0
+dd5fe3,Backpack,2,1,0,0,0,0,0,0,0,equpitment,trinket,0,0,0,0,0
+c68d52,Murder Giant,5,5,0,21,5,8,14,12,18,creature,large,4,0,1,0,0
+4403e4,Mud Gripper,3,3,0,12,3,5,7,8,7,creature,medium,3,1,1,0,0
+edd45e,Blind Elf,1,0,2,4,3,4,1,3,12,creature,small,3,1,1,0,0
+3cf83b,Ghoul,1,4,0,11,7,3,10,7,7,creature,medium,1,1,0,1,0
+f4375f,Ghoul Witch,1,3,2,3,12,7,9,2,4,creature,small,4,0,1,0,1
+67064f,Cave Cart,1,3,0,0,0,0,0,0,0,item,item,0,0,0,0,0
+377e00,Enhanced Expedition,2,0,3,0,0,0,0,0,0,spell,spell,0,0,0,0,0
+687d53,Armorer,2,2,0,6,2,4,2,9,9,creature,medium,3,0,0,2,0
+4883f7,Corrosive Spray,3,3,2,0,0,0,0,0,0,spell,spell,0,0,0,0,0
+1b0c18,Salaman,2,1,1,3,3,9,4,2,7,creature,small,6,0,1,0,0
+b36815,Strange Pick,2,1,1,0,0,0,0,0,0,item,item,0,0,0,0,0
+819eb3,Ancients Dndwelling,0,0,0,0,0,0,0,0,0,event,event,0,0,0,0,0
+249b3f,Draror,3,4,3,10,18,12,12,24,9,creature,large,6,0,1,0,0
+668136,Insidious excavation,2,0,2,0,0,0,0,0,0,spell,spell,0,0,0,0,0
+7662fe,Summoning of the Scattered,0,0,0,0,0,0,0,0,0,event,event,0,0,0,0,0
+9b5537,Hell Swine,4,3,1,18,4,5,11,19,11,creature,medium,4,1,2,0,0
+7fb338,Corrupting Chrome Axe,2,0,1,0,0,0,0,0,0,item,item,0,0,0,0,0
+37ec63,Cave Serpent,3,2,0,2,8,5,3,3,7,creature,medium,4,0,1,0,0
+7f106b,Ghoul,1,4,0,11,7,3,10,7,7,creature,medium,1,1,0,1,0
+54ebea,Chaotic Collapse,2,0,2,0,0,0,0,0,0,spell,spell,0,0,0,0,0
+5b2bff,Controlled Collapse,3,0,3,0,0,0,0,0,0,spell,spell,0,0,0,0,0
+a96e42,Insectoid,1,1,0,4,4,3,2,5,5,creature,small,3,1,1,0,0
+93cf00,Ugly Ogre,3,1,0,10,2,3,5,7,7,creature,medium,3,0,0,1,0
+c3e899,Dart Adder,5,1,2,9,7,13,6,8,13,creature,medium,4,0,1,0,0
+a37433,Passage of the Insane,0,0,0,0,0,0,0,0,0,event,event,0,0,0,0,0
+d2f706,Plague Person,1,1,1,1,6,1,2,1,2,creature,small,4,0,1,0,0
+92d838,Ratmen,1,0,1,3,3,5,4,2,3,creature,small,3,1,1,0,0
+7a242f,Spiked Shield,3,0,0,0,0,0,0,0,0,item,item,0,0,0,0,0
+7a19d3,Dark Hunter,1,0,2,3,4,3,3,2,8,creature,small,3,1,1,0,0
+42b3c5,Necromonks,2,2,1,3,8,2,4,2,4,creature,small,3,1,1,1,1
+054225,Diamond Shield,3,0,0,0,0,0,0,0,0,item,item,0,0,0,0,0
+9dc8b6,Root People,1,2,2,10,2,3,2,3,4,creature,small,2,2,1,0,0
+6a229e,Cardal Corpse Pile,1,3,0,5,4,7,4,2,3,creature,small,4,0,0,0,0
+ac6bc6,Spiny Bug,1,2,0,2,7,2,4,6,6,creature,small,3,0,0,0,0
+4cdc23,Black Iron Sledge,2,0,1,0,0,0,0,0,0,item,item,0,0,0,0,0
+c03b1b,Living Cloak of Smoke,1,1,3,1,7,9,2,1,7,creature,trinket,3,0,0,1,0
+363b95,Cutter,2,1,1,2,8,5,7,5,5,creature,small,4,0,20,0,0
+8a5a18,Rtman,1,0,1,2,3,7,4,2,2,creature,small,3,1,1,0,0
+0e4e69,Dark Hunters,2,0,2,4,5,5,3,2,8,creature,small,3,1,1,0,0
+47a85b,Cool Stretchy headband,1,0,0,0,0,0,0,0,0,trinket,trinket,0,0,0,0,0
+1ec820,Slicer,2,0,0,0,0,0,0,0,0,item,item,0,0,0,0,0
+33d6fc,Circumstance of the Weakened,0,0,0,0,0,0,0,0,0,event,event,0,0,0,0,0
+58ed89,Ogre Lord,9,3,1,28,6,11,19,19,19,creature,large,4,2,2,0,0
+b9103e,Necromonk,1,2,1,3,8,4,4,2,2,creature,small,3,1,1,0,0
+794296,Burrowing Swine,4,0,2,5,2,2,3,3,2,creature,small,3,2,0,2,0
+07c9aa,Bone Wagon,1,3,0,0,0,0,0,0,0,item,item,0,0,0,0,0
+4aa1ca,Thunder Sword,3,0,5,0,0,0,0,0,0,item,item,0,0,0,0,0
+d3cf2d,"1,000 Scorpions",2,2,1,4,12,4,4,6,6,creature,medium,3,0,0,1,0
+9e2d45,Greed,0,0,0,0,0,0,0,0,0,event,event,0,0,0,0,0
+42bc56,Bone Shovel,1,1,1,0,0,0,0,0,0,item,item,0,0,0,0,0
+ebbd0c,Mourning Face Mace,2,1,1,0,0,0,0,0,0,item,item,0,0,0,0,0
+976819,Caveling,2,0,0,2,1,4,2,3,5,creature,small,3,1,1,0,0
+ccf40f,Crystal Shield,2,0,2,9,7,13,6,8,13,item,item,0,0,0,0,0
+53a337,Hunched One,2,1,0,4,7,2,4,4,4,creature,small,2,1,1,1,0
+197717,Sewer Ogre,4,1,0,10,2,3,5,6,8,creature,medium,2,2,2,0,0
+a66777,Armored Slug,5,3,0,17,12,5,6,22,9,creature,large,3,0,0,0,0
+bd3b1b,Hideous Statue,2,1,2,1,15,1,1,15,1,creature,large,2,0,0,0,0
+981065,Necro Assistant,3,2,3,3,6,3,5,4,3,creature,small,3,0,2,2,1
+742a25,Cavelings,2,1,0,4,1,5,2,3,7,creature,small,3,1,1,0,0
+bb4e14,Iron Gate,3,0,3,0,0,0,0,0,0,item,item,0,0,0,0,0
+f51109,Magnetic Rune Stone,2,0,1,0,0,0,0,0,0,item,item,0,0,0,0,0
+2209db,Caveling Commander,3,3,0,13,2,5,7,11,11,creature,medium,3,1,1,0,0
+99e3ed,Hunched Ones,2,2,0,5,7,2,4,4,5,creature,small,2,1,1,1,0
